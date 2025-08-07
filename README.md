@@ -2,9 +2,11 @@
 Hospital Management Dashboard | Power BI
 
 This project presents a comprehensive Hospital Management Dashboard built using Power BI, designed to assist healthcare administrators and analysts in tracking and improving operational efficiency across multiple hospitals.
+
 🔍 Objective
 
-The goal was to visualize and analyze patient admission data, billing information, demographics, and hospital-wise performance trends to uncover actionable insights and support data-driven decision-making in healthcare management.
+    The goal was to visualize and analyze patient admission data, billing information, demographics, and hospital-wise performance trends to uncover actionable insights and support data-driven decision-making in healthcare management.
+    
 📊 Key Features
 
     Dynamic Filters for Year, Month, Medical Condition, Hospital, Admission Type, and more.
